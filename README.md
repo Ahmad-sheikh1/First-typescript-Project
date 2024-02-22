@@ -1,3 +1,7 @@
+
+
+Project Link :    https://jazzy-khapse-3752a0.netlify.app/
+
 In this project, I have implemented the following functionalities:
 
 Calling an API in TypeScript
