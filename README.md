@@ -1,4 +1,4 @@
-This is my first project developed in TypeScript, where I utilized Material-UI to craft the user interface. I integrated a search functionality within the application for enhanced user experience.
+This is my first project developed in TypeScript, where I utilized css to craft the user interface. I integrated a search functionality within the application for enhanced user experience.
 
 Project Link :    https://jazzy-khapse-3752a0.netlify.app/
 
